@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Ahmed",
+        "age": 22,
+        "grades": [
+            85,
+            90,
+            95
+        ]
+    },
+    {
+        "name": "Ali",
+        "age": 20,
+        "grades": [
+            70,
+            80,
+            75
+        ]
+    },
+    {
+        "name": "Mahmoud",
+        "age": 24,
+        "grades": [
+            86,
+            99,
+            91
+        ]
+    },
+    {
+        "name": "Mohamed",
+        "age": 20,
+        "grades": [
+            69,
+            60,
+            75
+        ]
+    },
+    {
+        "name": "Ayman",
+        "age": 24,
+        "grades": [
+            80,
+            89,
+            97
+        ]
+    },
+    {
+        "name": "Amira",
+        "age": 20,
+        "grades": [
+            90,
+            95,
+            98
+        ]
+    }
+]
